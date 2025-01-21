@@ -39,6 +39,11 @@ Aqui estão as principais tecnologias utilizadas neste projeto, com seus respect
 - ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 - ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
+### Testes
+
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+- ![Mockito](https://img.shields.io/badge/Mockito-FF9900?style=for-the-badge&logo=mockito&logoColor=white)
+
 ### Utilitários
 
 - ![Lombok](https://img.shields.io/badge/Lombok-FF6347?style=for-the-badge&logoColor=white)
